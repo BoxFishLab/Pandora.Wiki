@@ -178,3 +178,33 @@
  - [牛客网：https://www.nowcoder.com/875316208](https://www.nowcoder.com/875316208)
  - [算法网站](https://algs4.cs.princeton.edu/home/)
 - 譯者|校對|編輯：[leeoo]()
+|机器学习开源框架（python）|描述|链接|
+| --------   | | -------- | :----:  | 
+|Niftynet |一种开源卷积神经网络平台，用于医学图像分析和图像引导治疗|http://niftynet.io/|
+|tacotron|一个基于Tensorflow框架的开源Tacotron实现TTS|https://github.com/begeekmyfriend/tacotron|
+
+|机器学习相关数据集|链接 |备注|
+| --------   | | -------- | :----:  | 
+| csdn帖子 |[100+诡异的数据集，20万Eclipse Bug、死囚遗言等](https://www.csdn.net/article/2014-06-06/2820111-100-Interesting-Data-Sets-for-Statistics/1) | 部分受限网络|
+|airbnb网站|[Airbnb](https://www.crunchbase.com/organization/airbnb#section-overview)|在线企业人员信息查找|
+|找我要论坛|[找我要资源](https://wlsam168.ctfile.com/)|长期更新各类图书|
+|csdn帖子|[公开的机器学习数据集](https://blog.csdn.net/u012123197/article/details/79220369)|部分受限网络|
+|csdn帖子|[52个有用的机器学习和预测API](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80288486)|部分受限网络|
+|UCI网站|[UCI机器学习数据源](http://archive.ics.uci.edu/ml/datasets.html)|机器学习可靠的数据源|
+|csdn帖子|[ml数据集大全](https://blog.csdn.net/kwame211/article/details/81285242)|还未尝试|
+|道客帖子|[ml最常用的数据集](http://www.360doc.com/content/18/0620/08/40732010_763739080.shtml)|还未尝试|
+|网络帖子|[机器学习数据集](http://mt.sohu.com/20180209/n530607148.shtml) | 还未尝试|
+|网站|[斯坦福MURA数据](https://stanfordmlgroup.github.io/competitions/mura/)|访问较慢|
+|csdn帖子|[医学影像数据集](https://blog.csdn.net/sinat_37842336/article/details/80582948)|还未尝试|
+
+|论文|链接|主题描述|
+| --------   | | -------- | :----:  | 
+|中国国家图事馆|http://www.nlc.cn/dsb_zyyfw/lw/lwzyk/|收录了很多书籍和论文（包括中国知网）|
+|网帖|https://zhuanlan.zhihu.com/p/36970861| |
+
+|电子书搜索下载网站| 链接|
+| --------   | | -------- | :----:  |
+|机器学习与数据挖掘免费书单|https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md|
+|西林街|http://www.xilinjie.com/ |
+|盘搜|http://www.pansoso.com/|
+</br>
